@@ -1,0 +1,8 @@
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\bin\Debug\PR_11.exe.config
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\bin\Debug\PR_11.exe
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\bin\Debug\PR_11.pdb
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\obj\Debug\PR_11.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\obj\Debug\PR_11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\obj\Debug\PR_11.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\obj\Debug\PR_11.exe
+C:\Users\Arthur\Desktop\C#\PR_11\PR_11\obj\Debug\PR_11.pdb
